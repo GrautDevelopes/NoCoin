@@ -37,3 +37,4 @@ wss://*.2giga.link/wproxy*
 *://*.afminer.com/code/*
 *://*.coinblind.com/lib/*
 *://webmine.cz/miner*
+*://*.now.sh/client?party*
